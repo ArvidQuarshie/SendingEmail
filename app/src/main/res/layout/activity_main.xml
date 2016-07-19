@@ -7,7 +7,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.viralandroid.sendingemailfromandroidapp.MainActivity">
+    tools:context="com.example.user.sendingemail.MainActivity"
+    android:background="#23ecdf">
 
     <TextView
         android:id="@+id/textView"
@@ -82,7 +83,7 @@
         android:layout_below="@+id/message"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="5dp"
-        android:background="#498b24"
+        android:background="#248b60"
         android:padding="5dp"
         android:text="Send Message "
         android:textColor="#fff" />
